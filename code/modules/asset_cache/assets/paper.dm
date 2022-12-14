@@ -16,8 +16,5 @@
 		"stamp-chap" = 'icons/stamp_icons/large_stamp-chap.png',
 		"stamp-mime" = 'icons/stamp_icons/large_stamp-mime.png',
 		"stamp-centcom" = 'icons/stamp_icons/large_stamp-centcom.png',
-		"stamp-syndicate" = 'icons/stamp_icons/large_stamp-syndicate.png',
-		"stamp-test" = 'icons/stamp_icons/large_stamp-test.png',
-		"stamp-minitest" = 'icons/stamp_icons/large_stamp-mini.png',
-		"stamp-bigtest" = 'icons/stamp_icons/large_stamp-bigtest.png'
+		"stamp-syndicate" = 'icons/stamp_icons/large_stamp-syndicate.png'
 	)
